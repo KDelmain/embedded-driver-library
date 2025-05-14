@@ -1,0 +1,6 @@
+[submodule "driver-interfaces"]
+	path = driver-interfaces
+	url = git@github.com:KDelmain/driver-interfaces.git
+[submodule "drivers/eeprom-25lc040a-driver"]
+	path = drivers/eeprom-25lc040a-driver
+	url = git@github.com:KDelmain/eeprom-25lc040a-driver.git
